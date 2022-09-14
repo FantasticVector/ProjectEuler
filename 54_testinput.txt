@@ -1,0 +1,9 @@
+5H 5C 6S 7S KD 2C 3S 8S 8D TD
+5H 5C 6S 7S KD 2C 5C 7D 8S QH
+2D 9C AS AH AC 3D 6D 7D TD QD
+4D 6S 9H QH QC 3D 6D 7H QD QS
+2H 2D 4C 4D 4S 3C 3D 3S 9S 7D
+
+for i in range(1, 10):
+  print('Hello worldfai)
+dfajfakfjdsl
